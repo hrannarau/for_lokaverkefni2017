@@ -1,0 +1,5 @@
+Askhin hetjur
+1Ninja Líf=1800		1. Sparka (70% 150) 2. Kasta ninjastjörnu (50% 60) 3. svæfa (40% ekki tilraun 2x í röð) 4 Katana (25% 675)
+2Víkingur líf=3600  1. Exi (80% 60) 2. Líf (60% 200+ líf) 3. Skjöldur (40% tekur ekki við höggi næstu 3 tilranir) 4. Berserkur (35% lemur exi 2-6 sinnum)
+3Töframaður líf 1350 1. Eldbolti (70% 170) 2. Frjósa (50% ekki tilraun 2x í röð) 3. Eldingar (50% 120) 4. Lækning (40% 600 líf)
+4Hermaður lif 2400 1. Hnífur (55% 130
